@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="M3U Sources",Streamlive
+https://raw.githubusercontent.com/margabantheshwar/Streamliveplatlist.m3u/refs/heads/main/streamlive.m3u
+#EXTINF:-1 group-title="M3U Sources",Streamlive FM
+https://raw.githubusercontent.com/margabantheshwar/Streamliveplatlist.m3u/refs/heads/main/streamlivefm
+#EXTINF:-1 group-title="M3U Sources",Tamil North
+https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/channels-nortmp.m3u
+#EXTINF:-1 group-title="M3U Sources",Tamil Malayalam
+https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/channels-ml.m3u
+#EXTINF:-1 group-title="M3U Sources",Tamil Kannada
+https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/channels-kn.m3u
+#EXTINF:-1 group-title="M3U Sources",Akashgo
+https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/akashgo.m3u
+#EXTINF:-1 group-title="M3U Sources",Zee
+https://gist.githubusercontent.com/Mehedi-Hasan-404/563e929f577ddf142220865f0d209a57/raw/0486b2c6888777b587a6c9920c53bbe519e32fb5/Zee.m3u
